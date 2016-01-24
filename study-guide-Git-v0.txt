@@ -75,7 +75,7 @@ By using the git status command.
 15 Git what?!
 
 What is github?
-
+The single largest host for Git repositories.
 
 16 We see a need!
 
