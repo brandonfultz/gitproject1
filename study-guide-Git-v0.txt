@@ -40,7 +40,7 @@ They exist until you delete them.
 8 Tree growth
 
 How do you create a branch in git?
-
+By simply performing a git branch <branch name> command.
 
 9 Swinging on a vine
 
