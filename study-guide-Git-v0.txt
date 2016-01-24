@@ -70,7 +70,7 @@ The primary branch in git is known as the master branch.
 14 What limb are you on?
 
 How do you check which branch you presently have checked out?
-
+By using the git status command.
 
 15 Git what?!
 
