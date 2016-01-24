@@ -55,7 +55,7 @@ By using a git merge <branch to be merged> command, but you have to be in the br
 11 Status
 
 How do you check the status of the files you are presently working on?
-
+By using the git status command.
 
 12 Adding to the chaos
 
