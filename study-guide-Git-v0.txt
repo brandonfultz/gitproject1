@@ -35,7 +35,7 @@ A way to work on the side without changing the master.
 7 The life of a limb
 
 How long are branches in git supposed to exist?
-
+They exist until you delete them.
 
 8 Tree growth
 
