@@ -30,7 +30,7 @@ A way to switch between branches.
 6 It’s like a tree limb
 
 What is a branch?
-
+A way to work on the side without changing the master. 
 
 7 The life of a limb
 
