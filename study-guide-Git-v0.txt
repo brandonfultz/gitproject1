@@ -95,7 +95,7 @@ git was developed by linux kernel developers, and is known for its speed/ability
 19 What were they thinking?!
 
 What were the design criteria for git?
-
+It had to be fast, lightweight, and have powerful branching/merging.
 
 20 Time machine
 
