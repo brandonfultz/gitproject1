@@ -90,7 +90,7 @@ Having code which is entirely stable in the master branch, and test code in othe
 18 Why git?
 
 What makes git different than other version control systems?
-
+git was developed by linux kernel developers, and is known for its speed/ability to allow everyone work on their own branches at one time.
 
 19 What were they thinking?!
 
