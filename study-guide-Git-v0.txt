@@ -80,11 +80,9 @@ The single largest host for Git repositories.
 16 We see a need!
 
 Why was git created?
+SVN began charging money for their service, so git was created as a free open source product.
 
-
-17
-
-A day in the life of git
+17 A day in the life of git
 
 What is a typical git workflow?
 
