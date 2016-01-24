@@ -50,7 +50,7 @@ By using a git checkout <branch name> command.
 10 Taping it together
 
 How do you merge branches in git?
-
+By using a git merge <branch to be merged> command, but you have to be in the branch you wish for the other branch to be merged into.
 
 11 Status
 
