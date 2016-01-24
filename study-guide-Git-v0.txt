@@ -60,7 +60,7 @@ By using the git status command.
 12 Adding to the chaos
 
 How do you add files to the repository?
-
+By using the git add <file name> command.
 
 13 The main line
 
