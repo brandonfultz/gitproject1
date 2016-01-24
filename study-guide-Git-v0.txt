@@ -65,13 +65,14 @@ By using the git add <file name> command.
 13 The main line
 
 What is the name for the primary branch in git?
-
+The primary branch in git is known as the master branch.
 
 14 What limb are you on?
 
 How do you check which branch you presently have checked out?
 
-15 Git what?!
+
+15 Git what?!
 
 What is github?
 
