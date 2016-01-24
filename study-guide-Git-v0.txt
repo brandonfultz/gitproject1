@@ -106,7 +106,7 @@ By using the git log command.
 
 How much information, and what kind of information should be in a commit
 message?
-
+It should be brief, but it must convey enough information to know exactly what happened during the said commit.
 
 22 Great Scott!
 
