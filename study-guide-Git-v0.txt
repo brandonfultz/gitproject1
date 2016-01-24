@@ -15,7 +15,7 @@ Centralized will hold everything in one place, while distributed will allow ever
 3 Versa who?!
 
 What does a version control program do for us?
-
+It allows us to view our previous commits to see where we messed up.
 
 4 Committing to git
 
