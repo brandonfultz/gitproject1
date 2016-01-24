@@ -85,7 +85,7 @@ SVN began charging money for their service, so git was created as a free open so
 17 A day in the life of git
 
 What is a typical git workflow?
-
+Having code which is entirely stable in the master branch, and test code in other branches.
 
 18 Why git?
 
@@ -114,4 +114,3 @@ If there was a mistake made in the past of a project, how should we go about
 correcting that mistake?
 
 
-
