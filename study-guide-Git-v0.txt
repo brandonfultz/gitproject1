@@ -4,7 +4,7 @@ Study Guide
 1 Versa what?!
 
 What is version control?
-
+Version control records any changes you make to a file or files, so you can recall them at a later time.
 
 2 Where the heart is
 
