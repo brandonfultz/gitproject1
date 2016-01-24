@@ -45,7 +45,7 @@ By simply performing a git branch <branch name> command.
 9 Swinging on a vine
 
 How do you switch branches in git?
-
+By using a git checkout <branch name> command.
 
 10 Taping it together
 
