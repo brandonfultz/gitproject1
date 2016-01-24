@@ -20,7 +20,7 @@ It allows us to view our previous commits to see where we messed up.
 4 Committing to git
 
 What is a commit?
-
+A commit is simply recording our changes made in the repository with an explanation of what we did.
 
 5 Checking out git
 
