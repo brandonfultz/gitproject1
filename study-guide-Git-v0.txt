@@ -10,7 +10,7 @@ Version control records any changes you make to a file or files, so you can reca
 
 What is the difference between distributed and centralized version control
 systems?
-
+Centralized will hold everything in one place, while distributed will allow everyone working on the repository to have a copy.
 
 3 Versa who?!
 
