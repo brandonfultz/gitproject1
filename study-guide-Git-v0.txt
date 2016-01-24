@@ -25,13 +25,14 @@ A commit is simply recording our changes made in the repository with an explanat
 5 Checking out git
 
 What is a check out?
-
+A way to switch between branches.
 
 6 It’s like a tree limb
 
 What is a branch?
 
-7 The life of a limb
+
+7 The life of a limb
 
 How long are branches in git supposed to exist?
 
