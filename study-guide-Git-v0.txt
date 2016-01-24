@@ -100,7 +100,7 @@ It had to be fast, lightweight, and have powerful branching/merging.
 20 Time machine
 
 How do we view the past of a project with git?
-
+By using the git log command.
 
 21 Commit Comment
 
