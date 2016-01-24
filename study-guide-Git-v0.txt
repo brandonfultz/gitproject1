@@ -112,5 +112,5 @@ It should be brief, but it must convey enough information to know exactly what h
 
 If there was a mistake made in the past of a project, how should we go about
 correcting that mistake?
-
+By using a git checkout <commit name>. It isn't recommended to play in the past though. Try to avoid it if you can.
 
